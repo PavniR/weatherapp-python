@@ -29,8 +29,8 @@ A **Python** GUI weather application for desktop using **Tkinter** and **OpenWea
 
 1. Clone the repository
    
-git clone https://github.com/PavniR/weather-api-site.git
-run the command: cd weather-api-site
+git clone https://github.com/PavniR/weatherapp-python.git
+run the command: cd weatherapp-python
 
 2. Install required library
 Make sure Python is installed, then install the required requests library: pip install requests
